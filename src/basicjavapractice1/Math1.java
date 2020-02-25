@@ -1,4 +1,4 @@
-package Practice1;
+package basicjavapractice1;
 
 public class Math1 {
 

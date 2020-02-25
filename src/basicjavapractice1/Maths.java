@@ -1,30 +1,29 @@
-package Practice1;
+package basicjavapractice1;
 
 public class Maths {
   //Variables
-    double i;
-    double j;
-    double k;
+    int i;
+    int j;
+    int k;
 
     // Methods
 
-    public void add(double i, double j){
+    public void add(int i, int j){
         k = i+j;
      }
-     public void subtract(double i, double j){
+     public void subtract(int i, int j){
         k = i-j;
      }
-     public void multiply(double i, double j){
+     public void multiply(int i, int j){
         k = i*j;
     }
-    public void divide(double i, double j){
+    public void divide(int i, int j){
         k = i/j;
     }
-    public void modular(double i, double j){
+    public void modular(int i, int j){
         k = i % j;
     }
-    public void sroot(double i){
-        k = Math.sqrt(i);
+    public void sroot(double i){ k = (int) Math.sqrt(i);
     }
      public void hello(String name, String msg){
         System.out.println("Hello, My name is  "+ name + " and I am learning " + msg);

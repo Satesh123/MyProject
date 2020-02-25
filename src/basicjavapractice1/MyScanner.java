@@ -1,4 +1,4 @@
-package Practice1;
+package basicjavapractice1;
 
 import java.util.Scanner; //Import the scanner class
 

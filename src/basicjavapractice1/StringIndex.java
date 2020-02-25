@@ -1,4 +1,4 @@
-package Practice1;/*
+package basicjavapractice1;/*
     Finding a Character in a String
     The indexOf() method returns the index (the position) of the first occurrence of a specified text
     in a string (including whitespace):
