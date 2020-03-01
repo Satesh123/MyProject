@@ -14,6 +14,7 @@ public class Register {
 
        setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Downloads\\chromeDriver_win32\\chromeDriver.exe");
         ChromeDriver driver = new ChromeDriver();
+        driver.manage().window().maximize();
 
        driver.get("https://www.nopcommerce.com/register");
 

@@ -1,47 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f95e779-9c15-4616-bf9d-f4cf7caf1efb" name="Default Changelist" comment="Java Practice">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/Autologintest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/FirstProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/Logintest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/Nopcommercelogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/verifyLogIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/verifyProductDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Constructor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Cubeofthenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Factorialnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Forstatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Greatestnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/NegPov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Oddeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Oddnumbersum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Sumandaverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Sumofnaturalnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Switchcalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Switchstatment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicjavapractice1/Weekdays.java" afterDir="false" />
+    <list default="true" id="3f95e779-9c15-4616-bf9d-f4cf7caf1efb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Automation/NewRegister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyProject/Practice1/Calculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyProject/Practice1/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyProject/Practice1/Math1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyProject/Practice1/Maths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyProject/Practice1/MyScanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyProject/Practice1/StringIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicjavapractice1/Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicjavapractice1/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/Math1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicjavapractice1/Math1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/Maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicjavapractice1/Maths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/MyScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicjavapractice1/MyScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice1/StringIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicjavapractice1/StringIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automation/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automation/Register.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +34,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/screenshoter.jar!/" />
@@ -76,9 +45,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.verifyProductDetail">
+  <component name="RunManager" selected="Application.NewRegister">
     <configuration name="Constructor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basicjavapractice1.Constructor1" />
       <module name="MyProject" />
@@ -92,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nopcommercelogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Automation.Nopcommercelogin" />
+    <configuration name="NewRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automation.NewRegister" />
       <module name="MyProject" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewRegister" />
+        <item itemvalue="Application.Register" />
         <item itemvalue="Application.verifyProductDetail" />
         <item itemvalue="Application.verifyLogIn" />
-        <item itemvalue="Application.Register" />
         <item itemvalue="Application.Constructor1" />
-        <item itemvalue="Application.Nopcommercelogin" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1580202198307</updated>
     </task>
+    <task id="LOCAL-00001" summary="Automation">
+      <created>1582629231764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582629231764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,17 +159,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice" />
+    <MESSAGE value="Automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Automation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="534" y="86" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1581778269899">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="534" y="86" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1581778269899" />
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1581760875641">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1582629227408">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1581760875641" />
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582629227408" />
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1580650717929">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -205,22 +183,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="562" y="268" width="261" height="202" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1580645667724" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1582628906337">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583104712035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582628906337" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1582628906336">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583104712035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1582628906336" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1582628906336">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583104712035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1582628906336" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1582628906337">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583104712035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1582628906337" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1582499775583">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -241,18 +219,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="313" y="222" key="Performance.Activity.Monitor/0.0.1366.738@0.0.1366.738" timestamp="1580202950202" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1582379537738">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583099815358">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582379537738" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583099815358" />
     <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580631905754">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1580631905754" />
-    <state x="420" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581268090481">
+    <state x="387" y="270" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583100059128">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="420" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1581268090481" />
+    <state x="387" y="270" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1583100059128" />
+    <state x="420" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583102898824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="420" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1583102898824" />
     <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581760264894">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -265,10 +247,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1582107481231" />
-    <state x="346" y="59" key="search.everywhere.popup" timestamp="1580202512276">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1583103260903">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1580202512276" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583103260903" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
