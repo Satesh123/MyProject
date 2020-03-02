@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f95e779-9c15-4616-bf9d-f4cf7caf1efb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/NewRegister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Automation/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automation/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automation/NewRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automation/NewRegister.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582629231764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Automate Register test">
+      <created>1583105221931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583105221931</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,17 +164,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Practice" />
     <MESSAGE value="Automation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Automation" />
+    <MESSAGE value="Automate Register test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Automate Register test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="534" y="86" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1581778269899">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="534" y="86" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1581778269899" />
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1582629227408">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1583105219589">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582629227408" />
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1583105219589" />
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1580650717929">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -183,22 +188,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="562" y="268" width="261" height="202" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1580645667724" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583104712035">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583148402888">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583104712035">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583148402888">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583104712035">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583148402888">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583104712035">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583148402888">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583104712035" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1582499775583">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -223,6 +228,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583099815358" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1583105228772">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1583105228772" />
     <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580631905754">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

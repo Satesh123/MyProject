@@ -22,17 +22,21 @@ public class NewRegister {
 
         driver.findElement(By.cssSelector("span.ico-user.sprite-image")).click();
         driver.findElement(By.xpath("//*[@class='ico-register']")).click();
-        String Register = driver.getTitle();
-        out.println(Register);
+        String label = driver.findElement(By.xpath("//div[@class='page-title']/h1")).getText();
+        out.println(label);
 
         Thread.sleep(1000);
 
-        driver.findElement(By.id("FirstName")).sendKeys("John");
-        driver.findElement(By.name("LastName")).sendKeys("Smith");
-        driver.findElement(By.xpath("//input[@id='Email']")).sendKeys("Johnsmith1@gmail.com");
-        driver.findElement(By.cssSelector("input#ConfirmEmail")).sendKeys("Johnsmith1@gmail.com");
-        driver.findElementById("Username").sendKeys("smith134ac");
-        driver.findElementById("check-availability-button").click();
+        if (label.equals("Register")) {
+            driver.findElement(By.id("FirstName")).sendKeys("John");
+            driver.findElement(By.name("LastName")).sendKeys("Smith");
+            driver.findElement(By.xpath("//input[@id='Email']")).sendKeys("Johnsmith143@gmail.com");
+            driver.findElement(By.cssSelector("input#ConfirmEmail")).sendKeys("Johnsmith143@gmail.com");
+            driver.findElementById("Username").sendKeys("smith15fce");
+            driver.findElementById("check-availability-button").click();
+        } else {
+            out.println("Condition not match");
+        }
 
         Thread.sleep(2000);
 
@@ -40,11 +44,15 @@ public class NewRegister {
         String expectAva = "Username available";
 
         if (expectAva.equals(checkAva)) {
-            out.println(expectAva + " asserted");
+            out.println(expectAva);
             Select Country = new Select(driver.findElementById("CountryId"));
             Country.selectByVisibleText("United Kingdom");
             Select Companyroll = new Select(driver.findElementById("CompanyRoleId"));
             Companyroll.selectByVisibleText("Technical developer");
+            driver.findElement(By.className("custom-control-label")).click();
+            boolean newsLetter = driver.findElement(By.className("custom-control-label")).isSelected();
+            out.println(newsLetter);
+            assert true;
             Select Timezone = new Select(driver.findElementById("TimeZoneId"));
             Timezone.selectByValue("GMT Standard Time");
             driver.findElementById("Password").sendKeys("Password");
@@ -54,14 +62,19 @@ public class NewRegister {
             Submit.click();
 
         } else {
-            out.println("Expected value is : " + expectAva + " but received " + checkAva);
-        }
-        String registration = driver.findElement(By.xpath("//*[@id=\"bar-notification\"]/div/p")).getText();
-        if (registration.equals("Your registration completed")) {
-            System.out.println("Test case 1 passed");
+            out.println("Condition did not match Test fail");
         }
 
-          driver.quit();
+        Thread.sleep(1000);
+
+        String registration = driver.findElement(By.xpath("//div[@class='bar-notification success']/p")).getText();
+        if (registration.equals("Your registration completed")) {
+            System.out.println("Test case 1 passed");
+        } else {
+            out.println("Condition did not match Test fail");
+        }
+
+        driver.quit();
 
 
     }
