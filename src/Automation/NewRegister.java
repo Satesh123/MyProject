@@ -30,12 +30,12 @@ public class NewRegister {
         if (label.equals("Register")) {
             driver.findElement(By.id("FirstName")).sendKeys("John");
             driver.findElement(By.name("LastName")).sendKeys("Smith");
-            driver.findElement(By.xpath("//input[@id='Email']")).sendKeys("Johnsmith143@gmail.com");
-            driver.findElement(By.cssSelector("input#ConfirmEmail")).sendKeys("Johnsmith143@gmail.com");
-            driver.findElementById("Username").sendKeys("smith15fce");
+            driver.findElement(By.xpath("//input[@id='Email']")).sendKeys("Johnsmith623@gmail.com");
+            driver.findElement(By.cssSelector("input#ConfirmEmail")).sendKeys("Johnsmith623@gmail.com");
+            driver.findElementById("Username").sendKeys("smith472fce");
             driver.findElementById("check-availability-button").click();
         } else {
-            out.println("Condition not match");
+            out.println("Condition not Match");
         }
 
         Thread.sleep(2000);
@@ -43,8 +43,10 @@ public class NewRegister {
         String checkAva = driver.findElement(By.id("username-availabilty")).getText();
         String expectAva = "Username available";
 
+
         if (expectAva.equals(checkAva)) {
             out.println(expectAva);
+
             Select Country = new Select(driver.findElementById("CountryId"));
             Country.selectByVisibleText("United Kingdom");
             Select Companyroll = new Select(driver.findElementById("CompanyRoleId"));
@@ -52,7 +54,6 @@ public class NewRegister {
             driver.findElement(By.className("custom-control-label")).click();
             boolean newsLetter = driver.findElement(By.className("custom-control-label")).isSelected();
             out.println(newsLetter);
-            assert true;
             Select Timezone = new Select(driver.findElementById("TimeZoneId"));
             Timezone.selectByValue("GMT Standard Time");
             driver.findElementById("Password").sendKeys("Password");
@@ -61,21 +62,14 @@ public class NewRegister {
             WebElement Submit = driver.findElementById("register-button");
             Submit.click();
 
-        } else {
-            out.println("Condition did not match Test fail");
-        }
+            Thread.sleep(1000);
 
-        Thread.sleep(1000);
-
-        String registration = driver.findElement(By.xpath("//div[@class='bar-notification success']/p")).getText();
-        if (registration.equals("Your registration completed")) {
-            System.out.println("Test case 1 passed");
-        } else {
-            out.println("Condition did not match Test fail");
+            String registration = driver.findElement(By.xpath("//div[@class='bar-notification success']/p")).getText();
+            if (registration.equals("Your registration completed")) out.println("Test Case Passed");
         }
+        else out.println("Test Case fail");
 
         driver.quit();
-
 
     }
 }

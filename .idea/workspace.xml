@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583105221931</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Automate Register test">
+      <created>1583149412706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583149412706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,10 +179,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="534" y="86" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1581778269899" />
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1583105219589">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1583149409611">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1583105219589" />
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1583149409611" />
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1580650717929">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -188,22 +195,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="562" y="268" width="261" height="202" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1580645667724" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583148402888">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583148402888">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583148402888">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583148402888">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583148402888" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1582499775583">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -228,10 +235,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583099815358" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1583105228772">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1583149417994">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1583105228772" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1583149417994" />
     <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580631905754">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -244,10 +251,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="420" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1583102898824" />
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581760264894">
+    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583602689397">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1581760264894" />
+    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1583602689397" />
     <state x="262" y="108" width="984" height="579" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581763680610">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
