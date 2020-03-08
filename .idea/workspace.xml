@@ -37,14 +37,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/screenshoter.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.NewRegister">
+  <component name="RunManager" selected="Application.verifyLogIn">
     <configuration name="Constructor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basicjavapractice1.Constructor1" />
       <module name="MyProject" />
@@ -112,10 +112,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.verifyLogIn" />
         <item itemvalue="Application.NewRegister" />
         <item itemvalue="Application.Register" />
         <item itemvalue="Application.verifyProductDetail" />
-        <item itemvalue="Application.verifyLogIn" />
         <item itemvalue="Application.Constructor1" />
       </list>
     </recent_temporary>
@@ -175,6 +175,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Automate Register test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="708" y="395" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583704595555">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="708" y="395" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583704595555" />
     <state x="534" y="86" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1581778269899">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -195,46 +199,55 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="562" y="268" width="261" height="202" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1580645667724" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583601644983">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1583706808617">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583601644983">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706808617" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1583706808616">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583601644983">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706808616" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1583706808616">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583601644983">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706808616" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1583706808616">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
-    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1582499775583">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706808616" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1583706708637">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582499775583" />
-    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1582499775583">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706708637" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1583706708636">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1582499775583" />
-    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1582499775583">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706708636" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1583706708636">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1582499775582" />
-    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1582499775583">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706708636" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1583706708637">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1582499775583" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706708637" />
     <state x="313" y="222" key="Performance.Activity.Monitor" timestamp="1580202950202">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="313" y="222" key="Performance.Activity.Monitor/0.0.1366.738@0.0.1366.738" timestamp="1580202950202" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1583099815358">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="259" y="23" key="SettingsEditor" timestamp="1583705170179">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583099815358" />
+    <state x="259" y="23" key="SettingsEditor/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583705170179" />
     <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1583149417994">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -251,10 +264,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="420" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1583102898824" />
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583602689397">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="694" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583706818468">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1583602689397" />
+    <state x="694" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1583706818468" />
     <state x="262" y="108" width="984" height="579" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581763680610">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
