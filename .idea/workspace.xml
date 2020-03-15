@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f95e779-9c15-4616-bf9d-f4cf7caf1efb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Automation/ActionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/AlertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/Datadriven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/DoubleClickAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/WindowHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automation/WindowHandler2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Automation/NewRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Automation/NewRegister.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +37,29 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/lib/SparseBitSet-1.2.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/screenshoter.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.Datadriven">
-    <configuration name="Datadriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Automation.Datadriven" />
+  <component name="RunManager" selected="Application.NewRegister">
+    <configuration name="Constructor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjavapractice1.Constructor1" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicjavapractice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automation.NewRegister" />
       <module name="MyProject" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleClickAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Automation.DoubleClickAction" />
+    <configuration name="Register" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automation.Register" />
       <module name="MyProject" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Automation.DragAndDrop" />
+    <configuration name="verifyLogIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automation.verifyLogIn" />
       <module name="MyProject" />
       <extension name="coverage">
         <pattern>
@@ -91,21 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Automation.WindowHandler" />
-      <module name="MyProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Automation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WindowHandler2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Automation.WindowHandler2" />
+    <configuration name="verifyProductDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automation.verifyProductDetail" />
       <module name="MyProject" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Datadriven" />
-        <item itemvalue="Application.WindowHandler2" />
-        <item itemvalue="Application.WindowHandler" />
-        <item itemvalue="Application.DoubleClickAction" />
-        <item itemvalue="Application.DragAndDrop" />
+        <item itemvalue="Application.NewRegister" />
+        <item itemvalue="Application.Register" />
+        <item itemvalue="Application.verifyProductDetail" />
+        <item itemvalue="Application.verifyLogIn" />
+        <item itemvalue="Application.Constructor1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,14 +152,7 @@
       <option name="project" value="LOCAL" />
       <updated>1583149412706</updated>
     </task>
-    <task id="LOCAL-00004" summary="Automate Register test">
-      <created>1583602706890</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1583602706890</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,38 +179,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="534" y="86" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1581778269899" />
-    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1583602704136">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1583149409611">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1583602704136" />
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1583149409611" />
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1580650717929">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1580650717929" />
-    <state x="90" y="164" key="FileChooserDialogImpl" timestamp="1584095795074">
+    <state x="325" y="152" key="FileChooserDialogImpl" timestamp="1581793606984">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="90" y="164" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584095795074" />
+    <state x="325" y="152" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1581793606984" />
     <state x="562" y="268" width="261" height="202" key="Github.ShareDialog" timestamp="1580645667724">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="562" y="268" width="261" height="202" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1580645667724" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1584316445407">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584316445407" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1584316445407">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584316445407" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1584316445407">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584316445407" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1584316445407">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583601644983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584316445407" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583601644983" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1582499775583">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -245,14 +231,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="313" y="222" key="Performance.Activity.Monitor/0.0.1366.738@0.0.1366.738" timestamp="1580202950202" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1584095863113">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583099815358">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584095863113" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1583602710979">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583099815358" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1583149417994">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1583602710979" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1583149417994" />
     <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580631905754">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -273,10 +259,6 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="262" y="108" width="984" height="579" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.738@0.0.1366.738" timestamp="1581763680610" />
-    <state x="413" y="131" key="extract.method.dialog" timestamp="1584311723326">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="413" y="131" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1584311723326" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1582107481231">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -11,7 +11,7 @@ import static java.lang.System.setProperty;
 public class verifyLogIn {
 
     public static void main(String[] args) {
-        setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Downloads\\chromeDriver_win32\\chromeDriver.exe");
+       // setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Downloads\\chromeDriver_win32\\chromeDriver.exe");
 
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://demo.nopcommerce.com/login");
