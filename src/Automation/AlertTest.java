@@ -2,8 +2,10 @@ package Automation;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.interactions.Actions;
 
 import static java.lang.System.setProperty;
 
@@ -20,8 +22,8 @@ public class AlertTest {
 
         driver.get("https://www.southalltravel.co.uk//");
 
-        //  Actions action = new Actions(driver);
-        //action.sendKeys(Keys.PAGE_DOWN).build().perform();
+          Actions action = new Actions(driver);
+        action.sendKeys(Keys.PAGE_DOWN).build().perform();
 
         driver.findElement(By.id("button_flight_search")).click();
         Alert aletr = driver.switchTo().alert();

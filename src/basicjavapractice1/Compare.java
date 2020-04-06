@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class Compare {
 
+    public static void test(String[] args) {
+        Calculation cal = new Calculation();
+        cal.sum();
+        cal.subtract();
+    }
     public static void main(String[] args) {
 
         int marks;

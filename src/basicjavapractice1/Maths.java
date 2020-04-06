@@ -2,8 +2,8 @@ package basicjavapractice1;
 
 public class Maths {
   //Variables
-    int i;
-    int j;
+//    int i;
+//    int j;
     int k;
 
     // Methods

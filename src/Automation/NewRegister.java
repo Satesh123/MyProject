@@ -13,7 +13,7 @@ public class NewRegister {
 
     public static void main(String[] args) throws InterruptedException {
 
-      //  setProperty("webdriver.chrome.driver", "satesh$ \\Users\\satesh\\Downloads\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "satesh$ \\Users\\satesh\\Downloads\\chromedriver.exe");
         ChromeDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
