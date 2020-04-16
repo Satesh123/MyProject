@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Greatestnum {
 
-    public static void main(String[] args){
-        int a,b,c;
+    public static void main(String[] args) {
+        int a, b, c;
 
         try {
             Scanner sc = new Scanner(System.in);
@@ -24,14 +24,12 @@ public class Greatestnum {
             } else
                 System.out.println("C is biggest number");
         } catch (Exception i) {
-            if(i instanceof InputMismatchException) {
+            if (i instanceof InputMismatchException) {
                 System.out.println("OOps!! Please enter valid integer input!!");
             } else {
                 System.out.println("Invalid input");
             }
         }
-
-
 
 
     }

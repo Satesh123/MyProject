@@ -13,15 +13,15 @@ public class PassingArraysToMethods {
 
     public void avgList(int[] numbers) {
 
-        int totalnum = 0;
+        int num = 0;
         int sum = 0;
         for (int val : numbers) {
-            totalnum = numbers.length;
+            num = numbers.length;
             sum += val;
 
         }
-        System.out.println("Avg is: " + sum / totalnum);
-        System.out.println(totalnum);
+        System.out.println("Avg is: " + sum / num);
+        System.out.println(num);
         System.out.println(sum);
     }
 
